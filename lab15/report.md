@@ -57,17 +57,14 @@ Int write(int pipe_fd, void \*area, int cnt);
 
 ## Приложение
 
-![](https://github.com/dsshestakov/Lab_15/blob/main/img/Снимок%20экрана%202021-06-12%20в%2010.34.14.png)
-**Рис.1**
-![](https://github.com/dsshestakov/Lab_15/blob/main/img/Снимок%20экрана%202021-06-12%20в%2019.28.40.png)
-**Рис.2**
+
 ![](https://github.com/dsshestakov/Lab_15/blob/main/img/Снимок%20экрана%202021-06-12%20в%2010.34.36.png)
-**Рис.3**
+**Рис.1**
 ![](https://github.com/dsshestakov/Lab_15/blob/main/img/Снимок%20экрана%202021-06-12%20в%2010.34.44.png)
-**Рис.4**
+**Рис.2**
 ![](https://github.com/dsshestakov/Lab_15/blob/main/img/Снимок%20экрана%202021-06-12%20в%2010.34.49.png)
-**Рис.5**
+**Рис.3**
 ![](https://github.com/dsshestakov/Lab_15/blob/main/img/Снимок%20экрана%202021-06-12%20в%2010.34.56.png)
-**Рис.6**
+**Рис.4**
 ![](https://github.com/dsshestakov/Lab_15/blob/main/img/Снимок%20экрана%202021-06-12%20в%2010.35.02.png)
-**Рис.7**
+**Рис.5**
